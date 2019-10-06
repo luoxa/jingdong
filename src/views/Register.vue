@@ -1,6 +1,6 @@
 <template>
 <div>
-    <img class="header-img" src="../assets/img/logo.png" alt="logo">
+    <img class="header-img" src="https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png" alt="logo">
     <cube-form
       :model="model"
       :schema="schema"
